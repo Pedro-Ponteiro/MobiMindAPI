@@ -1,0 +1,12 @@
+venv
+clients
+container_data
+local_settings.py
+uploads/*
+
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+media
